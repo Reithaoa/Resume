@@ -1,5 +1,5 @@
 
-# Portfolio
+# Reithaoa's Portfolio
 
 Welcome to my personal portfolio. This is a showcase of my skills, experiences, and projects as a Software Engineering student with a focus on web development, client-server architecture, and sustainable solutions.
 
@@ -61,4 +61,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-Made by **Reitumetse Mochaoa**
+Made by **Reitumetse Mochaoa (Reithaoa)**
