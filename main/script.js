@@ -67,3 +67,23 @@ class TextScramble {
     randomChar() {
         return this.chars[Math.floor(Math.random() * this.chars.length)];
     }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    const elements = document.querySelectorAll('.scramble-text');
+
+    const observer = new IntersectionObserver((entries) => {
+        entries.forEach((entry) => {
+            if (entry.isIntersecting) {
+                const el = entry.target;
+                const fx = new TextScramble(el);
+                fx.setText(el.innerText);
+                observer.unobserve(el);
+            }
+        });
+    }, { threshold: 0.5 });
+
+    elements.forEach((el) => {
+        observer.observe(el);
+    });
+});
