@@ -24,7 +24,7 @@ The about section provides insight into who I am, my journey in software enginee
 
 - **Skills**: Object-Oriented Programming (OOP), Java, Python, Git, CI/CD, CLI, Multithreading, API Development, Docker.
 - **Experience**: Mentorship roles, Java Development, Hackathons, and Android development.
-- **Education**: WeThinkCode_, Northlink College, Cape Peninsula University of Technology.
+- **Education**: WeThinkCode_, Northlink College, Harvard CS50, IBM SkillsBuild.
 
 ### 3. Services
 An overview of my technical offerings, ranging from OOP to Docker. Each service is briefly described with links for further details.
