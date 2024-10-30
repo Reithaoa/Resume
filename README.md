@@ -52,7 +52,7 @@ A simple form for users to contact me, along with links to my social media profi
 
 1. Clone this repository:
    ```
-   git clone https://github.com/Reithaoa/portfolio-website.git
+   git clone https://github.com/Reithaoa/Resume.git
    ```
 2. Open `index.html` in your browser to view the website.
 
